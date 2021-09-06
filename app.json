@@ -1,6 +1,6 @@
 {
- "name": "TeleBot - UserBot",
- "description": "An advanced Telethon Userbot, from @TeleBotSupport",
+ "name": "PM_Bot",
+ "description": "An advanced Telethon PM_Bot, from @RMCMG",
  "logo": "https://telegra.ph/file/0b1d5cb8deeec7a506154.jpg",
  "keywords": [
   "telegram",
@@ -9,9 +9,9 @@
   "modular",
   "productivity"
  ],
- "repository": "https://github.com/xditya/TeleBot/",
- "website": "https://xditya.gitbook.io/telebot/",
- "success_url": "https://t.me/TeleBotHelp/13",
+ "repository": "https://github.com/RMCMG/PM_Bot/",
+ "website": "https://t.me/mkspali/",
+ "success_url": "https://t.me/RMCMG",
  "stack": "container",
  "env": {
   "ENV": {
