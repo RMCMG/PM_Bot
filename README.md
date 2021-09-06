@@ -31,8 +31,8 @@ Alternative sites can be found [here](https://t.me/TeleBotHelpChat/272145), inca
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/xditya/TeleBot
-cd TeleBot
+git clone https://github.com/RMCMG/PM_Bot
+cd PM_Bot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
