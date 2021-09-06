@@ -1,7 +1,6 @@
-# TeleBot - Telegram UserBot
+# <h1 align=center>PM Bot</h1>
+<img src = "https://user-images.githubusercontent.com/84823049/120094205-a4157400-c13c-11eb-9a72-8d1111809eb5.jpg">
 
-# <p align="left"><a href="https://github.com/xditya/TeleBot"><img src="https://github-readme-stats.vercel.app/api/pin?username=xditya&show_icons=true&theme=dark&hide_border=true&repo=TeleBot"></a></p><p align="centre"><a href="https://t.me/TeleBotHelpChat"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="Support" /></a><a href="https://github.com/xditya/TeleBot/stargazers"><img src="https://img.shields.io/github/stars/xditya/TeleBot?style=social"></a><a href="https://github.com/xditya/TeleBot/fork"><img src="https://img.shields.io/github/forks/xditya/TeleBot?label=Fork&logoColor=blue&style=social"></a>	<a href="https://github.com/xditya/TeleBot"><img src="https://img.shields.io/github/last-commit/xditya/TeleBot?style=flat-square"></a></p>
-    
 ## Video Tutorial on deploying
 
 Click the below button to watch the video tutorial on deploying
